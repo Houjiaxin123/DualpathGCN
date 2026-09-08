@@ -4,3 +4,5 @@ Thanks of the code from:
 (1) https://github.com/mahmoodlab/Patch-GCN
 (2) https://github.com/GemsLab/H2GCN/tree/master
 (3) https://github.com/divelab/DIG
+(4) https://github.com/Biooptics2021/PathFinder
+(5) https://github.com/mahmoodlab/CLAM
